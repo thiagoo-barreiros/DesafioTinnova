@@ -1,0 +1,4 @@
+com\estacionamento\estacionamentoapi\controllers\VeiculoController.class
+com\estacionamento\estacionamentoapi\repositories\VeiculoRepository.class
+com\estacionamento\estacionamentoapi\services\VeiculoService.class
+com\estacionamento\estacionamentoapi\models\VeiculoModel.class
